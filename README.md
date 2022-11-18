@@ -15,3 +15,8 @@ game with WebSocket connectivity for real time server to client communication.
     * `npm start`
 
 Application should be up at [http://localhost:8080](http://localhost:8080).
+
+
+#Update  
+If npm install not work well, unzip the nodejs-ws-lab (1).tar.gz
+This can works on Lab machine with port 8000, since someone use 8080 in lab machine.
