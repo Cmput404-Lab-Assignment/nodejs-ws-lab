@@ -5,7 +5,7 @@ const express = require("express");
 const http = require("http");
 const ParcelBundler = require("parcel-bundler");
 
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 8000;
 const PUBLIC_DIR = "public";
 const STATIC_DIR = "static";
 
